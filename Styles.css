@@ -1,0 +1,195 @@
+hr{
+    border: dotted 2px;
+    color: #38e0c4f3;
+}
+
+
+.main{
+    text-align: center;
+    margin: 0px;
+    background-color: black;
+    }    
+   
+ 
+.TopCloud{
+    padding-top: 3%;
+    position: relative;
+    left: 35%;
+
+}
+
+
+#ProfileSticker{
+    height: 40%;
+    width: 50%;
+}
+
+
+#quirkyEyes{
+    height: 50%;
+    width: 50%;
+}
+
+
+.Photography{
+    height: 35%;
+    width: 40%;
+}
+.PublicSpeaking{
+    height: 30%;
+    width: 30%;
+
+
+}
+
+.text{
+    margin:0mm auto 0 auto;
+    font-family: 'Courgette', cursive;
+    font-size: 2rem;
+    color: #1137df;
+    font-weight: normal;
+}
+
+
+
+
+#Intro{
+    margin:0mm auto 0 auto;
+    font-family: 'Great Vibes', cursive;
+    font-size: 5rem;
+}
+ 
+
+.intro1{
+    color: #ff4893;
+}
+
+.intro2{
+    color: #32e0c4;
+}
+
+.intro3{
+    color: #ba53de;
+}
+
+.intro4{
+    color: #ff4646;
+}
+
+#Computerscreen{
+    padding-top: 10%;
+    height: 40%;
+    width: 40%;
+}
+
+.Heading{
+    font-family: 'Monoton', cursive;
+    color: #f01e79;
+    font-size: 4rem;
+    margin: 50px auto 30px auto;
+}
+
+.textType2{
+    
+    font-size: 2rem;
+    color:  #2beecd;
+    font-family: 'Codystar', cursive;
+}
+
+.Heading2{
+
+    font-size: 2.5rem;
+    color: #e12ff1;
+    font-family: 'Press Start 2P', cursive;
+    text-align: left;
+}
+
+.Heading3{
+    text-align: left;
+    color: #0c23f1;
+    font-size: 2.25rem;
+    font-family: 'Yeseva One', cursive;
+    line-height: 2;
+}
+
+.textType3{
+    text-align: left;
+    color: #ffa41b ;
+    font-family: 'Imbue', serif;
+    font-size: 2.25rem;
+    
+}
+
+
+.Eye-image{
+    margin: 20px auto 50px auto;
+    height: 25%;
+    width: 25%;
+}
+
+.ContactInfoHead{
+    font-family: 'Monoton', cursive;
+    color: #f01e79;
+    font-size: 4rem;
+    margin: 50px auto 50px auto;
+}
+
+
+.text5{
+    font-family: 'Bodoni Moda', serif;
+    font-size: 1.75rem;
+    color: #e12ff1;  
+}
+.text4{
+color: #39c5c3f3;
+font-family: 'Bodoni Moda', serif;
+font-size: 1.75rem;
+}
+
+.footer-link{
+    font-size: 1.5rem;
+    color: #b138a7;
+    margin: 10px;
+    text-decoration: none;
+}
+
+
+.footer-link:hover{
+    color: #35013f;
+}
+
+
+.skill-row{
+    margin: 100px 25px 100px 10px;
+    line-height: 1.75;
+}
+
+
+.bottom-container{
+    background-color: #c295d8;
+    margin-bottom: 0;
+    padding: 45px 0 20px;
+}
+
+
+.btn {
+    -webkit-border-radius: 5;
+    -moz-border-radius: 5;
+    border-radius: 5px;
+    font-family: Arial;
+    color:  #42043e;
+    font-size: 20px;
+    background: #c295d8;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background:  #ea86b6;
+    text-decoration: none;
+  }
+
+  .CopyRight{
+      color: #42043e;
+      padding: 35px 0 20px;
+  }
